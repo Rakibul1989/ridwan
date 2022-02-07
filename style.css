@@ -1,0 +1,22 @@
+.myheader{
+    background-color: #e3f2fd;
+}
+.myheader a img {
+	width: 37px;
+}
+.my-menu{
+    width: 50%;
+    margin: auto;
+}
+.my-form {
+	width: 31%;
+	margin-left: 333px;
+}
+.btn-close {
+	/* text-align: right; */
+	position: relative;
+	right: -180px;
+	top: -8px;
+	font-size: 70px;
+}
+
